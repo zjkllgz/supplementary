@@ -4,9 +4,10 @@ This repository contains supplementary result tables referenced in the author re
 
 ## Table Index
 
-- [Prediction model comparison under shuffled evaluation](./model-comparison-shuffled.md)
-- [Prediction model comparison under chronological evaluation](./model-comparison-chronological.md)
+- [Model comparison under shuffled evaluation](./model-comparison-shuffled.md)
+- [Model comparison under chronological evaluation](./model-comparison-chronological.md)
 - [Search method comparison for MS-BCNN under chronological evaluation](./msbcnn-search-comparison-chronological.md)
+- [Overall model comparison on the Water Treatment Plant dataset](./water-treatment-plant-overall-model-comparison.md)
 
 ## Remarks
 
