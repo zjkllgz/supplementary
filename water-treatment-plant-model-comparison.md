@@ -1,8 +1,8 @@
-## Overall forecasting performance under chronological evaluation
+# Overall predictive performance on the Water Treatment Plant dataset
 
-**Table.** Overall forecasting performance on the Water Treatment Plant dataset under the chronological evaluation (mean ± std). For each metric, the best result is **boldfaced**.
+**Table.** Overall predictive performance on the Water Treatment Plant dataset (mean ± standard deviation). The best result in each metric is **boldfaced**.
 
-| Model | NMSE | NMAE | MAPE (%) |
+| Model | NMSE ↓ | NMAE ↓ | MAPE (%) ↓ |
 |---|---:|---:|---:|
 | MS-BCNN | **0.7474 ± 0.0315** | **0.4978 ± 0.0241** | **0.5061 ± 0.0215** |
 | OB-ISSID | 1.4120 ± 0.0824 | 0.8105 ± 0.0485 | 1.0412 ± 0.0615 |
