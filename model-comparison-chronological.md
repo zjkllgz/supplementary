@@ -108,4 +108,4 @@
 
 ---
 
-*Note:* For each target row, we report MSE and MAE together with MAPE. The *Overall* row reports NMSE and NMAE, computed by normalizing each target error (e.g., by its variance or standard deviation) and then macro-averaging over the five targets; MAPE is also macro-averaged.
+*Note:* For each target row, we report MSE and MAE together with MAPE. The *Overall* row reports NMSE and NMAE, computed by normalizing each target error, for example by its variance or standard deviation, and then macro-averaging over the five targets; MAPE is also macro-averaged.
