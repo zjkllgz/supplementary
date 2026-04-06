@@ -1,6 +1,10 @@
-# Additional Tables for Anonymous Review
+# Supplementary Materials for Anonymous Review
 
-This repository contains supplementary result tables referenced in the author response.
+This repository contains supplementary figures and result tables referenced in the author response.
+
+## Figure Index
+
+- [Framework illustration](./fig1_framework.png)
 
 ## Table Index
 
@@ -19,6 +23,6 @@ This repository contains supplementary result tables referenced in the author re
 
 ## Remarks
 
-The original tables were prepared in LaTeX format. For easier online inspection during anonymous review, they are reorganized here into grouped Markdown tables without changing any reported numerical values.
+The original materials were prepared in LaTeX format. For easier online inspection during anonymous review, the tables are reorganized here into grouped Markdown tables without changing any reported numerical values.
 
 All results are reported as mean ± std.
