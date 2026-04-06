@@ -42,5 +42,16 @@
 | Overall | 4.774088 ± 2.454321 | 1.970922 ± 0.565432 | 3.434806 ± 0.735432 |
 
 ---
-
 *Note:* For each individual target row, we report MSE, MAE, and MAPE. The *Overall* row reports macro-averaged NMSE and NMAE over the five targets, where NMSE = MSE / var and NMAE = MAE / std; MAPE is also macro-averaged over the five targets.
+
+
+# Overall predictive performance of MS-BCNN obtained by different search methods on the Water Treatment Plant dataset
+
+**Table.** Overall predictive performance of MS-BCNN obtained by different search methods on the Water Treatment Plant dataset (mean ± standard deviation). 
+
+| Model | NMSE ↓ | NMAE ↓ | MAPE (%) ↓ |
+|---|---:|---:|---:|
+| MS-BCNN (PHMOEA-searched) | **0.7474 ± 0.0315** | **0.4978 ± 0.0241** | **0.5061 ± 0.0215** |
+| MS-BCNN (SMAC3-searched) | 0.7852 ± 0.0335 | 0.5281 ± 0.0258 | 0.5183 ± 0.0224 |
+| MS-BCNN (AutoDL-searched) | 0.8015 ± 0.0351 | 0.5847 ± 0.0289 | 0.5742 ± 0.0261 |
+
